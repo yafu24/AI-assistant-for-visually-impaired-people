@@ -1,5 +1,8 @@
 # AI-Assistant-For-Visually-Impaired-People
 This AI Assistant for Visually Impaired People is an advanced assistive technology designed to help individuals with visual impairments navigate their environment, access information, and perform daily tasks more independently. The system leverages Artificial Intelligence (AI), Computer Vision (CV), Natural Language Processing (NLP), and Speech Recognition to provide real-time assistance through voice commands, object recognition, and environmental descriptions.
+<p>
+  <img src="https://github.com/yafu24/AI-assistant-for-visually-impaired-people/blob/main/people_eating.png"  width=500 height=400 />
+</p>
 
 ## Overview
 This project utilizes various AI technologies to provide visually impaired individuals with enhanced accessibility features. <br/>
