@@ -1,0 +1,29 @@
+# Core Libraries
+numpy
+pandas
+
+# Machine Learning and AI
+tensorflow
+torch
+transformers
+
+# Natural Language Processing
+nltk
+spacy
+
+# Computer Vision
+opencv-python
+pillow
+
+# Speech Recognition and Text-to-Speech
+speechrecognition
+gtts
+pyttsx3
+
+# Audio Processing
+pydub
+
+# Utilities
+scipy
+matplotlib
+seaborn
